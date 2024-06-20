@@ -22,4 +22,4 @@ sql dump file:
 - db_backup.sql file is a mysql dump file.we have to import this dump to mysql db server
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
-
+THIS HOSTED A PROPER FUNCTIONING WEBSITE USING DIFFERENT VMS BOTH MANUALLY AND AUTOMATICALLY USING GITBASH
